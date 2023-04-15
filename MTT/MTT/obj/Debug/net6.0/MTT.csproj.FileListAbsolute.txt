@@ -1,0 +1,5 @@
+C:\Users\Mada\source\repos\mjm\mjm\obj\Debug\net6.0\MTT.csproj.AssemblyReference.cache
+C:\Users\Mada\source\repos\mjm\mjm\obj\Debug\net6.0\MTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mada\source\repos\mjm\mjm\obj\Debug\net6.0\MTT.AssemblyInfoInputs.cache
+C:\Users\Mada\source\repos\mjm\mjm\obj\Debug\net6.0\MTT.AssemblyInfo.cs
+C:\Users\Mada\source\repos\mjm\mjm\obj\Debug\net6.0\MTT.csproj.CoreCompileInputs.cache
